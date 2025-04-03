@@ -538,3 +538,25 @@ footer {
     margin: 12px;
   }
 }
+
+
+/* DARK MODE/LIGHT MODE (in the works of getting this to work properly) */
+
+/* 
+:root{
+  --base-color: #FFFF;
+  --base-variant:#D9D9D9;
+  --text-color:#353535;
+  --secondaary-text: #284B63;
+  --primary-color:#284B63;
+  --accent-color:#3C6E71;
+}
+
+#darkmode{
+  --base-color: #353535;
+  --base-variant:#292929;
+  --text-color:white;
+  --secondaary-text: #D9D9D9;
+  --primary-color:#284B63;
+  --accent-color:#3C6E71;
+}  */
